@@ -17,7 +17,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 1. Certifique-se de ter o Node.js instalado.
 2. Clone o repositório para sua máquina:
 ```sh
-git clone https://github.com/seu-usuario/codgo-x-ecommerce.git
+git clone https://github.com/alissonromaosantos/codgo-x-ecommerce.git
 ```
 3. Navegue até o diretório do projeto:
 ```sh
