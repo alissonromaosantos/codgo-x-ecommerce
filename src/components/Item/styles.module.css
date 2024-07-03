@@ -1,0 +1,52 @@
+.css-1ss7tz5-MuiTypography-root {
+  font-weight: 900;
+  margin-bottom: 20px !important;
+}
+
+.css-7mzaav-MuiPaper-root {
+  max-width: 600px;
+  width: 100%;
+}
+
+.css-1sngk3y {
+  padding: 15px 20px;
+}
+
+.css-1d3ft9k-MuiCardMedia-root {
+  width: 100%;
+  object-fit: cover;
+}
+
+.css-1nj4yz3, 
+.css-1j52cd2 {
+  display: flex;
+  gap: 5px;
+}
+
+.css-2ulfj5-MuiTypography-root,
+.css-1m18ozv-MuiTypography-root,
+.css-7urs1a-MuiTypography-root {
+  margin-bottom: 20px;
+  font-weight: 700 !important;
+}
+
+.css-1nr8djg-MuiTypography-root,
+.css-7al9ge-MuiTypography-root,
+.css-1r7fhq2-MuiTypography-root {
+  font-weight: 400;
+  margin-bottom: 20px !important;
+}
+
+@media (max-width: 425px) {
+  .css-1nj4yz3,
+  .css-1j52cd2 {
+    gap: 0;
+    flex-direction: column;
+  }
+
+  .css-2ulfj5-MuiTypography-root,
+  .css-1m18ozv-MuiTypography-root,
+  .css-7urs1a-MuiTypography-root {
+    margin-bottom: 0;
+  }
+}

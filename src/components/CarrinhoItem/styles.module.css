@@ -1,0 +1,63 @@
+.css-gepadz-MuiTypography-root {
+  font-weight: 900 !important;
+  margin-bottom: 20px !important;
+}
+
+.css-3su884-MuiPaper-root {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 10px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.css-0 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.css-o69gx8-MuiCardMedia-root {
+  width: 80px !important;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.quantidade-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 10px;
+}
+
+.container-total {
+  display: flex;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.css-ag7rrr-MuiTypography-root {
+  font-weight: 900 !important;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  cursor: pointer;
+}
+
+@media (max-width: 425px) {
+  .css-3su884-MuiPaper-root {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .css-0 {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .quantidade-item {
+    margin-left: 0;
+  }
+}

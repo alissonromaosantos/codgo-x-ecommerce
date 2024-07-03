@@ -1,0 +1,43 @@
+.css-ce8e53-MuiContainer-root {
+  padding: 100px;
+}
+
+.css-gepadz-MuiTypography-root {
+  font-weight: 900 !important;
+  text-align: center;
+}
+
+.css-1itvvrr-MuiContainer-root {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+/* .container-produtos {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 20px;
+} */
+
+.link-navegacao {
+  text-decoration: none;
+}
+
+.css-2ulfj5-MuiTypography-root {
+  font-weight: 900 !important;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .css-ce8e53-MuiContainer-root {
+    padding: 100px 20px;
+  }
+
+  .css-1itvvrr-MuiContainer-root {
+    justify-content: center;
+  }
+}
